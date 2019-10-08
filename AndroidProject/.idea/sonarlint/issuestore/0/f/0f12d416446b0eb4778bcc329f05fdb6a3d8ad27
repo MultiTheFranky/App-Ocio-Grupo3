@@ -1,0 +1,6 @@
+
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(±…ž§üÿÿÿÿ
+isquid:S3776f"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(¬…¾í
+Psquid:S4719&"9Replace charset name argument with StandardCharsets.UTF_8(ûÿÈÑ
+]squid:S1118":Add a private constructor to hide the implicit public one.(‹ÃÒŠþÿÿÿÿ8‘¦ò«Ú-
+Psquid:S1135n"2Complete the task associated to this TODO comment.(‚®ìØ8ä•‹¬Ú-

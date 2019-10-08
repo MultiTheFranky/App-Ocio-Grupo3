@@ -1,0 +1,12 @@
+
+csquid:CommentedOutCodeLineá"<This block of commented-out lines of code should be removed.(™šŸ¹
+gsquid:S5361 "HReplace this call to "replaceAll()" by a call to the "replace()" method.(‚íÎ†8Ò¢ôªÚ-
+lsquid:S5361Ÿ"HReplace this call to "replaceAll()" by a call to the "replace()" method.(ùª´±ýÿÿÿÿ8Ò¢ôªÚ-
+lsquid:S5361œ"HReplace this call to "replaceAll()" by a call to the "replace()" method.(Ý—ˆâþÿÿÿÿ8Ò¢ôªÚ-
+lsquid:S5361"HReplace this call to "replaceAll()" by a call to the "replace()" method.(å®‰—úÿÿÿÿ8Ò¢ôªÚ-
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(œÖ¯ÿùÿÿÿÿ
+lsquid:S5361›"HReplace this call to "replaceAll()" by a call to the "replace()" method.(½¬Ãûÿÿÿÿ8Ò¢ôªÚ-
+jsquid:MaximumInheritanceDepth)"<This class has 6 parents which is greater than 5 authorized.(Òé©´úÿÿÿÿ
+Gsquid:S5411»"*Use the primitive boolean expression here.(Ì¡¡ƒúÿÿÿÿ
+lsquid:S5361ž"HReplace this call to "replaceAll()" by a call to the "replace()" method.(„âåøÿÿÿÿ8Ò¢ôªÚ-
+gsquid:S5361¡"HReplace this call to "replaceAll()" by a call to the "replace()" method.(ó“•¾8Ò¢ôªÚ-

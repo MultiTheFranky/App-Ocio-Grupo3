@@ -1,0 +1,5 @@
+
+€squid:S4165P"iRemove this useless assignment; "descripcion" already holds the assigned value along all execution paths.(Éò¤Ý
+_squid:S00107 "BConstructor has 12 parameters, which is greater than 7 authorized.(Ä²»µþÿÿÿÿ
+msquid:S4275P"VRefactor this setter so that it actually refers to the field "descripcionAlternativa".(Éò¤Ý
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(§‰¸Û
