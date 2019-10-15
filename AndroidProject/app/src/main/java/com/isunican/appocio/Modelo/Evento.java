@@ -77,7 +77,7 @@ public class Evento implements Parcelable {
     public void setDescripcion(String descripcion) { this.descripcion = descripcion; }
 
     public String getDescripcionAlternativa() { return descripcionAlternativa; }
-    public void setDescripcionAlternativa(String descripcionAlternativa) { this.descripcion = descripcion; }
+    public void setDescripcionAlternativa(String descripcionAlternativa) { this.descripcionAlternativa = descripcionAlternativa; }
 
     public String getFecha() { return fecha; }
     public void setFecha(String fecha) { this.fecha = fecha; }
